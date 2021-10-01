@@ -1,4 +1,4 @@
 # Calculator
 I am trying to make calculator
-and that is all
-version ( 0.3 )
+and that is all.    
+     (version is 0.3 )
